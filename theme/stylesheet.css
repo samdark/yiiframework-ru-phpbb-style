@@ -1,0 +1,17 @@
+@import url("../../prosilver/theme/stylesheet.css");
+
+.imageset.site_logo {
+	background-image: url("./images/yii_logo.png");
+	padding-left: 74px;
+	padding-top: 61px;
+}
+
+html, body {
+	color: #536482;
+	background-color: #eee;
+}
+
+.codebox code {
+	overflow: visible;
+	max-height: none;
+}
