@@ -2,8 +2,9 @@
 
 .imageset.site_logo {
 	background-image: url("./images/yii_logo.png");
-	padding-left: 74px;
-	padding-top: 61px;
+	background-repeat: no-repeat;
+	width: 81px;
+	height: 60px;
 }
 
 html, body {
