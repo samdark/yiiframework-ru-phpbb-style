@@ -10,3 +10,4 @@ Changes from original style are:
 - Additional menu item in user menus allowing to get all your own topics.
 - Total users count is visible for admins only.
 - Code blocks are always expanded.
+- Added code blocks syntax highlighting via highlight.js.
